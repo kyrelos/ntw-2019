@@ -10,6 +10,9 @@ jupyter = "*"
 pandas = "*"
 numpy = "*"
 sklearn = "*"
+tensorflow = "*"
+catboost = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.7"

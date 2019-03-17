@@ -107,3 +107,5 @@ __pycache__
 .DS_Store
 
 data/*.csv
+*.tmp
+catboost_info/
