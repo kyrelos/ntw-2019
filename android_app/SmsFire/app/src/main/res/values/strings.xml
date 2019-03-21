@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmsFire</string>
+    <string name="app_description">Inbox Sms classified by SmsFire</string>
+    <string name="permission_alert_dialog_title">SMS Permission</string>
+    <string name="permission_dialog_message">SmsFire will now request read SMS read Contact permission on your device.</string>
+    <string name="action_ok">Ok</string>
+    <string name="ham_button">Sms</string>
+    <string name="spam_button">Spam Sms</string>
+    <string name="ham_button_count">0</string>
+    <string name="spam_button_count">0</string>
+    <string name="title_activity_spam">SpamActivity</string>
+</resources>
